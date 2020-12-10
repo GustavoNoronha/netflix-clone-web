@@ -32,6 +32,7 @@ Site Desenvolvido por <a href="https://instagram.com/gustavoNoronha0">Gustavo No
     ![segunda-sessao](https://user-images.githubusercontent.com/58527704/101785211-42544580-3adb-11eb-978b-971ba5a0367f.PNG)
     ![terceira-sessao](https://user-images.githubusercontent.com/58527704/101785372-6dd73000-3adb-11eb-85f6-55143e6ff454.PNG)
     ![segunda-sessao](https://user-images.githubusercontent.com/58527704/101785530-a545dc80-3adb-11eb-96fa-a2aade33f003.PNG)
+    ![quarta-sessao](https://user-images.githubusercontent.com/58527704/101785704-d1f9f400-3adb-11eb-99d7-8852c4aa2e2c.PNG)
     ![rodape](https://user-images.githubusercontent.com/58527704/101785537-a5de7300-3adb-11eb-98c5-d055c8dac162.PNG)
 
 

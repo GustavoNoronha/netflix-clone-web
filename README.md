@@ -30,6 +30,7 @@ Site Desenvolvido por <a href="https://instagram.com/gustavoNoronha0">Gustavo No
 3.  **Imagens do Projeto.**
 
     ![segunda-sessao](https://user-images.githubusercontent.com/58527704/101785211-42544580-3adb-11eb-978b-971ba5a0367f.PNG)
+    ![terceira-sessao](https://user-images.githubusercontent.com/58527704/101785372-6dd73000-3adb-11eb-85f6-55143e6ff454.PNG)
 
     
 ## 🧐 Estruturas de pastas

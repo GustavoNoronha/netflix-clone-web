@@ -27,6 +27,11 @@ Site Desenvolvido por <a href="https://instagram.com/gustavoNoronha0">Gustavo No
 
     Você pode editar e ver o pojeto, todo o html esta na index.html.
     
+3.  **Imagens do Projeto.**
+
+    ![segunda-sessao](https://user-images.githubusercontent.com/58527704/101785211-42544580-3adb-11eb-978b-971ba5a0367f.PNG)
+
+    
 ## 🧐 Estruturas de pastas
 
 Saiba a estruturação deste projeto / src

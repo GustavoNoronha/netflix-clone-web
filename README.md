@@ -1,9 +1,9 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
-  <a>
-    <img alt="Netflix" src="![primeira-sessao](https://user-images.githubusercontent.com/58527704/101784681-97dc2280-3ada-11eb-9a91-f1cc02cc38d9.PNG)
-" width="700" />
-  </a>
+ 
+   ![primeira-sessao](https://user-images.githubusercontent.com/58527704/101784681-97dc2280-3ada-11eb-9a91-f1cc02cc38d9.PNG)
+
+ 
 </p>
 <h1 align="center">
   Netflix site clone
